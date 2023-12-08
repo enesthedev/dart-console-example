@@ -9,7 +9,7 @@ This assigment is part of HadwareAndro's Dart course.
 ### Install Instructions
 
 - Clone the package
-- Run main.dart with Dart SDK
+- Run startup.dart with Dart SDK
 
 ### Cases
 
